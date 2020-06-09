@@ -3,5 +3,8 @@
   "version": "2.0.0-alpha.56",
   "description": "A linter engine for Docusaurus",
   "main": "lib/index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "markdown-it": "^11.0.0"
+  }
 }
