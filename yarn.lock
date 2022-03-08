@@ -7186,9 +7186,9 @@ cssesc@^3.0.0:
   integrity sha512-/Tb/JcjK111nNScGob5MNtsntNM1aCNUDipB/TkwZFhyDrrE47SOx/18wF2bbjgc3ZzCSKW1T5nt5EbFoAz/Vg==
 
 cssnano-preset-advanced@^5.1.12:
-  version "5.2.0"
-  resolved "https://registry.yarnpkg.com/cssnano-preset-advanced/-/cssnano-preset-advanced-5.2.0.tgz#fc87b7c7327b61306e3e707e2f0fda3fa468f713"
-  integrity sha512-E7jJoKc2GjZsRLm8wQd2wZa+1a6tslA1elimwpcJTnH6dBQBkjQ8tAwNWUeyT72owYcCNGWTnar60bTnrnEWzw==
+  version "5.2.1"
+  resolved "https://registry.yarnpkg.com/cssnano-preset-advanced/-/cssnano-preset-advanced-5.2.1.tgz#e96673c8fb2d4fba589b40c75167fe398bc9a5c0"
+  integrity sha512-M/qkiVwnKfGiolf20yDeOWPDlIqf9NItkQYUYDQluBTUITCFnNfuFrAeRln0P6tSyDeCUOgmqQWW++B4A3gNgQ==
   dependencies:
     autoprefixer "^10.3.7"
     cssnano-preset-default "^5.2.0"
